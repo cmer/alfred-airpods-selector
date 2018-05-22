@@ -1,9 +1,7 @@
 toggle=$1
 
 switch="/usr/local/bin/SwitchAudioSource"
-airpods1="AirPods Bedroom"
-airpods3="AirPods Office"
-airpods2="AirPods Travel"
+airpods1="Carl’s AirPods"
 mic="Built-in Microphone"
 output="Built-in Output"
 
